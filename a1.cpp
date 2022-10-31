@@ -3,5 +3,7 @@
 
 class Name
 {
-
+  private:
+    int a;
+    int b;
 };
